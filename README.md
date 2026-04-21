@@ -1,7 +1,5 @@
-# act_8_formulario
-<img width="954" height="1020" alt="image" src="https://github.com/user-attachments/assets/6510b07a-aa26-46e8-9b6d-34f70ec5f0b7" />
-<img width="929" height="1003" alt="image" src="https://github.com/user-attachments/assets/ce5db3aa-89c5-4620-ace8-09ca7e16179a" />
-<img width="949" height="1031" alt="image" src="https://github.com/user-attachments/assets/69c1eb9d-fc1d-4b89-ad37-96da1a4cb603" />
+
+
 
 
 
